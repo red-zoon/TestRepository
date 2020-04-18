@@ -1,5 +1,5 @@
-IgnoreFolder/
-
-IgnoreText.txt
-
-*.png
+Debug/
+Release/
+.vs/
+*.exe
+*.cso
